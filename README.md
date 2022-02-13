@@ -1,12 +1,13 @@
-<스터디 준비>
+<h1><스터디 준비></h1>
 
-그룹장분들이 repo 생성 후, 사용하시는 명령어
+<h2>그룹장분들이 repo 생성 후, 사용하시는 명령어</h2>
 1. 깃 시작
     
     `git init`
 2. 깃허브와 연결하기
    
    `git remote add <upstream> <repo 주소>`
+
 <upstream> 부분은 그룹장분들이 설정하고 싶은 명칭마다 다르게 설정하시면 될 것 같습니다!
 제가 만든 repo는 upstream으로 설정하여 upstream으로 표기했습니다.
 3. 그룹원분들이 사용하실 branch 만들기
@@ -26,8 +27,9 @@
    `git push <upstream>`
 
 
-그룹원분들이 repo를 fork 후, 사용하시는 명령어
+<h2>그룹원분들이 repo를 fork 후, 사용하시는 명령어</h2>
 1. 깃 시작
+
 아래의 명령어를 실행하면 `git init + 폴더 생성` 을 한번에 실행할 수 있습니다.
     
     `git clone <그룹원분들의 깃허브 계정에 생성된 스터디repo 주소> <생성할 폴더명>`
@@ -52,7 +54,7 @@
 https://github.com/gwonihan/MulcamD_study/blob/master/Fork%20사용법.md
 
 
-<스터디 진행> (미정)
+</h1><스터디 진행> (미정)</h1>
 
 `git fetch upstream`
 
